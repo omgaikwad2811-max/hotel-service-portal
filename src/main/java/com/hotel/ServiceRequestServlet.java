@@ -1,4 +1,4 @@
-```java
+
 package com.hotel;
 
 import jakarta.servlet.ServletException;
@@ -120,4 +120,3 @@ public class ServiceRequestServlet extends HttpServlet {
                 .replace("'", "&#39;");
     }
 }
-```
